@@ -1,17 +1,28 @@
-# IT Support Projects and Documentation
+# IT Support and Infrastructure Consultant
 
-This repository is a working collection of my IT support and infrastructure work. It holds the projects I have delivered, the tools I have built along the way, and the documentation I write to keep systems secure, recoverable and well understood.
+This repository is where I keep the evidence behind my IT support work. It holds the projects I have delivered, the tools I have built along the way, and the documentation I write so that systems stay secure, recoverable and easy for other people to manage.
 
 ## About me
 
-I am an IT support and infrastructure consultant. I mainly support small organisations that run on Google Workspace and need dependable security, access management, backup and business continuity rather than constant troubleshooting.
+I am an IT support and systems administration professional based in Nairobi, Kenya. I have more than six years of hands on experience across three business environments, covering user support, Active Directory, Google Workspace, networking, servers and backups.
 
-My focus areas:
+Today I run day to day IT for a professional coaching and training organisation. Every month I report to management on system health, access, open issues and risk, so they always know where things stand.
 
-* Google Workspace administration
-* Security, MFA and access control
-* Backup and recovery
-* Business continuity and risk reporting
+What keeps me in this work is the moment an unclear, unstable setup starts to make sense. I take what people have learned to work around and turn it into something they can rely on.
+
+## What I want this repository to do
+
+**Show how I work, with evidence.** A technical problem always sits inside a business process, so each project here explains the situation, what I did, and what changed. Where a status is still open, I say so.
+
+**Build a library of reusable documentation.** Runbooks, checklists and templates that someone else could pick up and follow without needing me in the room.
+
+## How I work
+
+1. **Understand** the environment, the users, the dependencies and who owns what.
+2. **Assess** the risk, the impact and the likely root cause.
+3. **Act** by fixing the problem, or coordinating the people who can.
+4. **Document and check** what changed and what is still open, then confirm the fix holds.
+
 
 ## Repository structure
 
@@ -24,19 +35,40 @@ documentation/
     README.md
 ```
 
-**projects** contains the work I have done, with one folder per project. The project log in that folder gives a short summary of each one.
+**projects** contains one folder per project, with a log in the folder's README that summarises each one.
 
-**documentation** contains guides, checklists and runbooks I have written, along with a template so every document follows the same format.
+**documentation** contains the guides, checklists and runbooks I write, along with a template so every document follows the same format.
 
 ## Featured project
 
-**Digital Asset and Access Register with Control Dashboard.** An Excel workbook that reports technology risk as measurable controls and gives management a one page view of whether critical systems are protected, backed up and recoverable. See `projects/digital-asset-access-register`.
+**Digital Asset and Access Register with Control Dashboard.** Management reports that list activities and hours say very little about risk. I built an Excel workbook that reports technology risk as measurable controls. It records who owns each critical asset, whether the organisation has its own admin and recovery access, MFA coverage, backup success, recovery test results and unresolved high risk issues, and brings them together on a one page dashboard.
 
-## A note on confidentiality
+You can find it in `projects/digital-asset-access-register`.
 
-Everything published here is anonymised. I do not include client names, real credentials, account details or any information that could expose an organisation's security position. Where a project is based on real work, the data in the repository is fictional and shared with permission.
+## Planned additions
+
+These are the pieces I plan to add next:
+
+* A tracker document for website changes and upgrades that was generated from a google analytics report
+* A monthly access review checklist
+* A monthly IT snapshot template built around service indicators
+
+
+## Toolkit
+
+Active Directory, Google Workspace, 2FA and MFA, networking, DNS, domains and hosting, servers, backups, issue tracking and reporting, GA4 and Search Console.
+
+## Evidence and confidentiality
+
+The examples in this repository come from real monthly client reporting. Everything has been anonymised, and where a project is based on real work the data shown here is fictional and shared with permission. I do not publish client names, contract terms, credentials, account details or anything that could expose an organisation's security position.
+
+The measures I refer to are operational measures taken from client reporting. They are not independent audits.
+
+## Where I am heading
+
+IT support, systems administration and infrastructure are where I work today. Cybersecurity and cloud security are where I am taking it next. I care about what technology does for the people using it, and I want to leave every environment easier to support than I found it.
 
 ## Contact
 
-[Your Name]
-[Your email or LinkedIn link]
+LinkedIn: linkedin.com/in/victor-chege-
+GitHub: github.com/Shei-The-Techi

@@ -27,29 +27,3 @@ A log of the projects I have worked on. Each project has its own folder with a R
 **What I did.** I work high priority tickets in a simulated queue and write up each one, covering how I read the ticket, what I checked, what I changed, how I communicated and what I would do differently. Each case ends with a short runbook. Two cases so far, a remote user who could not reach a shared drive and a user whose clock and time zone were wrong.
 
 **Outcome.** Both tickets were resolved and confirmed by the user. This is practice on a fictional environment and is labelled as such.
-
-## Template for a new project README
-
-Copy this into `projects/your-project-name/README.md`.
-
-```
-# Project title
-
-## Summary
-One short paragraph on what this project is.
-
-## The problem
-What was not working or what was missing.
-
-## My approach
-The steps I took and why I chose them.
-
-## Tools and technologies
-List what I used.
-
-## Outcome
-What improved, ideally with a measurable result.
-
-## What I would do differently
-One or two honest lessons.
-```

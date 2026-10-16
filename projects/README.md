@@ -16,17 +16,17 @@ A log of the projects I have worked on. Each project has its own folder with a R
 
 **Status.** Sample version published with anonymised data.
 
-### 2. [Project name]
+### 2. Service Desk Simulator Practice
 
-**Folder:** `[folder name]`
-**Area:** [for example Google Workspace, networking, endpoint support]
-**Tools:** [tools used]
+**Folder:** `service-desk-simulator`
+**Area:** Remote support, desktop and network troubleshooting, user communication
+**Tools:** ServiceDesk Simulator, remote desktop, VPN client, file shares
 
-**The problem.** [One or two sentences.]
+**The problem.** I wanted regular, realistic practice at hands on ticket handling, with a user waiting and a deadline in play.
 
-**What I did.** [One or two sentences.]
+**What I did.** I work high priority tickets in a simulated queue and write up each one, covering how I read the ticket, what I checked, what I changed, how I communicated and what I would do differently. Each case ends with a short runbook. Two cases so far, a remote user who could not reach a shared drive and a user whose clock and time zone were wrong.
 
-**Outcome.** [What changed as a result.]
+**Outcome.** Both tickets were resolved and confirmed by the user. This is practice on a fictional environment and is labelled as such.
 
 ## Template for a new project README
 
